@@ -8,6 +8,7 @@
             //koordinati
             //dlina otrezka
             //dlina linii
+            //пр. к.
         }
     }
 }

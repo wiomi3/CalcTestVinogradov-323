@@ -9,6 +9,8 @@
             //dlina otrezka
             //dlina linii
             //пр. к.
+            //ploshad kvadrata
+            //ploshad chego to
         }
     }
-}
+}п

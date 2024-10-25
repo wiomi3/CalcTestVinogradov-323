@@ -7,6 +7,7 @@
             Console.WriteLine("Hello, World!");
             //koordinati
             //dlina otrezka
+            //dlina linii
         }
     }
 }
